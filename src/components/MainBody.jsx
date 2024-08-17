@@ -3,7 +3,7 @@ function MainBody() {
   return (
     <>
       <div className={styl.MainBody}>
-        <img className={styl.img} src="src/assets/Sajid Saleem.png" alt="" />
+        <img className={styl.img} src="images/SajidSaleem.png" alt="" />
         <h1>I Introduce Myself as a FULL-STACK Developer</h1>
         <p className={styl.intro_para}>
           Salam🙂 I am Sajid Saleem Khattak. I am a Full Stack Developer with 2+
