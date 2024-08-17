@@ -4,9 +4,7 @@
   /* background-color: blue; */
 }
 .footer_Parent_container {
-  margin: 5%;
-  margin-left: 10%;
-  margin-bottom: 7%;
+  margin: 5vh 5vh 7vh 5vh;
 }
 .email {
   font-size: 18px;
